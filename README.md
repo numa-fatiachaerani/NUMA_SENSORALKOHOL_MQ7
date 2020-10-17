@@ -1,0 +1,1 @@
+# numa_SensorAlkohol_MQ7
